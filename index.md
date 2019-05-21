@@ -1,10 +1,18 @@
-## Welcome to GitHub Pages
+## Bem-vindo ao meu site
 
-You can use the [editor on GitHub](https://github.com/mayconbj15/mayconbj15.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui é onde eu coloco todos os meus projetos que já fiz ;)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+# Jogos
+## Scratch
+### Copa pong
+  Esse é um jogo que fiz no meu primeiro período do curso 
+    É uma versão do clássico jogo de Atari Pong só que mais divertido haha
+    [Link Copa Pong](https://scratch.mit.edu/projects/209549519/)
+    
+### Hit the minds
+  Esse jogo também fiz no meu primeiro período do curso 
+    É um jogo baseado no clássico jogo da topeira só que com a temática de grandes nomes da tecnologia e uma aparição inusitada do grande Sergio Malandro
+    [Link Hit The Minds](https://scratch.mit.edu/projects/222901172/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
