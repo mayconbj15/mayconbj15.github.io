@@ -2,6 +2,15 @@
 
 Aqui é onde eu coloco todos os meus projetos que já fiz ;)
 
+#Projetos Git Hub
+## CRUD
+  Esse é um projeto de uma CRUD que fizemos em equipe durante a disciplina de AEDS3
+    [Link CRUD](https://github.com/mayconbj15/crud)
+    
+## Stickers Masters
+  Esse é um projeto de um aplicativo de figurinhas de Whatsapp para Android
+  [Link Stickers Masters](https://github.com/mayconbj15/stickers)
+
 # Jogos
 ## Scratch
 ### Copa pong
