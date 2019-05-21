@@ -1,6 +1,11 @@
 # Bem-vindo ao meu site
 
-Aqui é onde eu coloco todos os meus projetos que já fiz ;)
+Quem sou eu?
+Maycon Bruno de Jesus
+Estudante de Ciência da Computação pela PUC MINAS
+Apaixonado por tecnologias, jogos e aprendizado
+
+Nesse site é onde eu coloco todos os meus projetos que já fiz ;)
 
 # Projetos Git Hub
 ## CRUD
