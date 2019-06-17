@@ -1,6 +1,6 @@
 # Bem-vindo ao meu site
 
-Quem sou eu?
+## Quem sou eu?
 
 Maycon Bruno de Jesus
 
@@ -18,6 +18,11 @@ Nesse site é onde eu coloco todos os meus projetos que já fiz ;)
 ## Stickers Masters
   Esse é um projeto de um aplicativo de figurinhas de Whatsapp para Android
   [Link Stickers Masters](https://github.com/mayconbj15/stickers)
+  
+## PIC
+  Simulação de um elevador feito em PIC. Casa led simula um andar de um prédio, indo do térreo ao quarto andar.
+    Existe um botão de emergência que quando acionado faz o elevador permanecer mais dois segundos no andar atual e ir descendo até o     térreo.
+     [Link PIC] (https://github.com/mayconbj15/PIC)
 
 # Jogos
 ## Scratch
