@@ -11,7 +11,7 @@ Apaixonado por tecnologias, jogos e aprendizado
 Nesse site é onde eu coloco todos os meus projetos que já fiz ;)
 
 # Projetos Git Hub
-## CRUD
+## Crud
   Esse é um projeto de uma CRUD que fizemos em equipe durante a disciplina de AEDS3
     [Link CRUD](https://github.com/mayconbj15/crud)
     
@@ -19,7 +19,7 @@ Nesse site é onde eu coloco todos os meus projetos que já fiz ;)
   Esse é um projeto de um aplicativo de figurinhas de Whatsapp para Android
   [Link Stickers Masters](https://github.com/mayconbj15/stickers)
   
-## PIC
+## Pic
   Simulação de um elevador feito em PIC. Casa led simula um andar de um prédio, indo do térreo ao quarto andar.
     Existe um botão de emergência que quando acionado faz o elevador permanecer mais dois segundos no andar atual e ir descendo até o     térreo.
      [Link PIC](https://github.com/mayconbj15/PIC)
