@@ -1,5 +1,26 @@
 body{
     background: rgb(99, 160, 230);
+    font-family: monospace;
+}
+
+header{
+    position: relative;
+    top: 50px;
+    margin: auto;
+    text-align: center;
+}
+
+header div{
+    display: inline-block;
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+
+    font-style: italic;
+    font-size: 15pt;
 }
 
 .welcome{
