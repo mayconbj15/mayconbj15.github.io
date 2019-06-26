@@ -1,0 +1,83 @@
+body{
+    font-family: monospace;
+}
+
+header{
+    position: relative;
+    top: 50px;
+    left: 200px;
+}
+
+header div{
+    display: inline-block;
+    margin: 10px;
+}
+
+h2{
+    font-size: 50pt;
+    position: relative;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+
+    font-style: italic;
+}
+
+div p.inline{
+    font: normal 25pt monospace;
+
+    position: relative;
+    left: 350px;
+    display: inline-block;
+    margin: 30px;
+    text-align: center;
+
+}
+
+div p.inline img{
+    position: relative;
+
+    margin-top: 30px;
+}
+
+p.inline#inline2{
+    left:300px;
+}
+
+ul.list{
+    font: normal 20pt monospace;
+}
+
+ul.list li{
+    margin: 10px;
+}
+
+div#studying{
+    text-align: center;
+}
+
+div#studying h1{
+    font-size: 50pt;
+}
+
+div#studying p{
+    font-size: 25pt;
+
+    display: inline-block;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+div#studying img#phpLogo{
+    position: relative;
+    right: 10px;
+}
+
+div#studying img#sqlLogo{
+    position: relative;
+    right: 10px;
+}
+
