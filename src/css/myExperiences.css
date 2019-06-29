@@ -1,0 +1,58 @@
+body{
+    font-family: monospace;
+}
+
+h1{
+    font-size: 50pt;
+    position: relative;
+    text-align: center;
+    
+    padding-top: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+
+    font-style: italic;
+}
+
+div#myExperiences p{
+    
+}
+
+/**
+* Estilizações das imagens da header
+*/
+
+header{
+    position: relative;
+    top: 50px;
+    margin: auto;
+    left: 692px;
+}
+
+header div{
+    display: inline-block;
+    margin: 15px;
+}
+
+header img[id="imgHome"]{
+    position: relative;
+    right: 10px;
+}
+
+header img[id="imgHabilities"]{
+    position: relative;
+    left: 15px;
+}
+
+header img[id="imgExperiencies"]{
+    position: relative; 
+    left: 15px;
+}
+
+header img[id="imgProjects"]{
+    position: relative; 
+    left: 5px;
+}
