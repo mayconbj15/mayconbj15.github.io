@@ -80,7 +80,7 @@ div#studying img#sqlLogo{
 */
 
 header{
-    position: relative;
+    position: absolute;
     top: 50px;
     margin: auto;
     left: 692px;
@@ -90,6 +90,7 @@ header div{
     display: inline-block;
     margin: 15px;
 }
+
 
 header img[id="imgHome"]{
     position: relative;
