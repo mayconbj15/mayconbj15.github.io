@@ -17,6 +17,10 @@ div#myHabilities p{
     font-size: 10pt;
 }
 
+div#myHabilities p img{
+    padding-top: 15px;
+}
+
 ul{
     text-align: center;
 }
@@ -29,7 +33,7 @@ a{
 }
 
 /**
-* Estilizações das imagens da heades
+* Estilizações das imagens da header
 */
 
 header{
