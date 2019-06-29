@@ -2,18 +2,6 @@ body{
     font-family: monospace;
 }
 
-header{
-    position: relative;
-    top: 50px;
-    margin: auto;
-    left: 700px;
-}
-
-header div{
-    display: inline-block;
-    margin: 10px;
-}
-
 h2{
     font-size: 50pt;
     position: relative;
@@ -72,6 +60,11 @@ div#studying p{
     margin-left: 30px;
 }
 
+div#studying img#javaScriptLogo{
+    position: relative;
+    right: 10px;
+}
+
 div#studying img#phpLogo{
     position: relative;
     right: 10px;
@@ -81,4 +74,41 @@ div#studying img#sqlLogo{
     position: relative;
     right: 10px;
 }
+
+/**
+* Estilizações das imagens da heades
+*/
+
+header{
+    position: relative;
+    top: 50px;
+    margin: auto;
+    left: 692px;
+}
+
+header div{
+    display: inline-block;
+    margin: 15px;
+}
+
+header img[id="imgHome"]{
+    position: relative;
+    right: 10px;
+}
+
+header img[id="imgHabilities"]{
+    position: relative;
+    left: 15px;
+}
+
+header img[id="imgExperiencies"]{
+    position: relative; 
+    left: 15px;
+}
+
+header img[id="imgProjects"]{
+    position: relative; 
+    left: 5px;
+}
+
 
