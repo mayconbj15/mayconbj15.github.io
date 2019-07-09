@@ -1,11 +1,9 @@
+/**
+*   Estilizações gerais
+*/
+
 body{
     font-family: monospace;
-}
-
-h2{
-    font-size: 50pt;
-    position: relative;
-    text-align: center;
 }
 
 a{
@@ -15,15 +13,30 @@ a{
     font-style: italic;
 }
 
+div#whoIAm p#hp{
+    font-size: 50pt;
+    
+    position: relative;
+    left: 40%;
+
+    display: inline;
+}
+
+div#myDescription p{
+    position: relative;
+    left: 15%;
+
+    margin-top: 20px;
+}
+
 div p.inline{
-    font: normal 25pt monospace;
+    font: normal 15pt monospace;
 
     position: relative;
-    left: 350px;
+    
     display: inline-block;
-    margin: 30px;
-    text-align: center;
-
+    
+    margin: 0 10px;
 }
 
 div p.inline img{
@@ -74,42 +87,4 @@ div#studying img#sqlLogo{
     position: relative;
     right: 10px;
 }
-
-/**
-* Estilizações das imagens da heades
-*/
-
-header{
-    position: absolute;
-    top: 50px;
-    margin: auto;
-    left: 692px;
-}
-
-header div{
-    display: inline-block;
-    margin: 15px;
-}
-
-
-header img[id="imgHome"]{
-    position: relative;
-    right: 10px;
-}
-
-header img[id="imgHabilities"]{
-    position: relative;
-    left: 15px;
-}
-
-header img[id="imgExperiencies"]{
-    position: relative; 
-    left: 15px;
-}
-
-header img[id="imgProjects"]{
-    position: relative; 
-    left: 5px;
-}
-
 
