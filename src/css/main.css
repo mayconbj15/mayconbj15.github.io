@@ -13,13 +13,12 @@ a{
     font-style: italic;
 }
 
-div#whoIAm p#hp{
+div#whoIAm h1#hp{
     font-size: 50pt;
-    
     position: relative;
-    left: 40%;
-
-    display: inline;
+    text-align: center;
+    
+    padding-top: 10px;
 }
 
 div#myDescription p{
@@ -88,7 +87,6 @@ div#studying img#sqlLogo{
     right: 10px;
 }
 
-<<<<<<< HEAD
 /**
 * Estilizações das imagens da header
 */
@@ -125,6 +123,3 @@ header img[id="imgProjects"]{
     left: 5px;
 }
 
-
-=======
->>>>>>> 43d9aa0f5f7220f8d214dcfd04ad5ceab615e94a

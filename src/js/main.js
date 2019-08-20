@@ -18,6 +18,7 @@
  function maxHeight(element){
     console.log('max')
     element.height += 5;
+    
  }
 
  function minHeight(element){
