@@ -1,11 +1,9 @@
+/**
+*   Estilizações gerais
+*/
+
 body{
     font-family: monospace;
-}
-
-h2{
-    font-size: 50pt;
-    position: relative;
-    text-align: center;
 }
 
 a{
@@ -15,15 +13,30 @@ a{
     font-style: italic;
 }
 
+div#whoIAm p#hp{
+    font-size: 50pt;
+    
+    position: relative;
+    left: 40%;
+
+    display: inline;
+}
+
+div#myDescription p{
+    position: relative;
+    left: 15%;
+
+    margin-top: 20px;
+}
+
 div p.inline{
-    font: normal 25pt monospace;
+    font: normal 15pt monospace;
 
     position: relative;
-    left: 350px;
+    
     display: inline-block;
-    margin: 30px;
-    text-align: center;
-
+    
+    margin: 0 10px;
 }
 
 div p.inline img{
@@ -75,6 +88,7 @@ div#studying img#sqlLogo{
     right: 10px;
 }
 
+<<<<<<< HEAD
 /**
 * Estilizações das imagens da header
 */
@@ -112,3 +126,5 @@ header img[id="imgProjects"]{
 }
 
 
+=======
+>>>>>>> 43d9aa0f5f7220f8d214dcfd04ad5ceab615e94a
