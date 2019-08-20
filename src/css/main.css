@@ -76,11 +76,11 @@ div#studying img#sqlLogo{
 }
 
 /**
-* Estilizações das imagens da heades
+* Estilizações das imagens da header
 */
 
 header{
-    position: absolute;
+    position: relative;
     top: 50px;
     margin: auto;
     left: 692px;
@@ -90,7 +90,6 @@ header div{
     display: inline-block;
     margin: 15px;
 }
-
 
 header img[id="imgHome"]{
     position: relative;
